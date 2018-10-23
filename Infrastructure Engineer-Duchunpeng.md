@@ -23,7 +23,16 @@ Skills
 Work Experience
 ---------------
 
- - ***Baidu, Inc. Beijing, China.*** Research and Development engineer Intern. March 2016 – Now
+ - ***Baidu, Inc. Shenzhen, China.*** Research and Development engineer Intern. May 2017 – Now
+<br>**Description:** 
+<br>Developing a non-relational, distributed database called “TableII” , which modeled after Google's BigTable and is written in C++. It runs on top of Baidu’s distributed filesystem “AFS”.
+<br>**Responsibilities:**
+<br>a. Test Performance of Table and HBase in distributed mode;
+<br>b. Developed Java API for TableII using coroutine framework Kilim.
+<br>c. Developed Inputformat and Outformat interface for MapReduce users;
+<br>d. Write Spark demo for change some complicated sql statement into spqrk application;
+
+ - ***Baidu, Inc. Beijing, China.*** Research and Development engineer Intern. March 2016 – November 2016
 <br>**Description:** 
 <br>Developing a non-relational, distributed database called “TableII” , which modeled after Google's BigTable and is written in C++. It runs on top of Baidu’s distributed filesystem “AFS”.
 <br>**Responsibilities:**
