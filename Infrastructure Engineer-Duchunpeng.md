@@ -1,10 +1,12 @@
 **Du Chunpeng**
 ===============
 
-Mobil: (+86)177-2755-6710 
-E-mail: duchunpeng2017@qq.com 
-Website: https://dukeke.github.io/
-GitHub: https://github.com/Dukeke/ 
+| Mobil | (+86)177-2755-6710 | 
+| :-----| :---- | 
+| E-mail | duchunpeng2017@qq.com |
+| Website | https://dukeke.github.io/ | 
+| GitHub | https://github.com/Dukeke/ |
+
 
 Education
 ---------
