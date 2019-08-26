@@ -30,7 +30,7 @@ Work Experience
 
  - ***Baidu, Inc. Shenzhen, China.*** Research and Development engineer in FSG. May 2017 – Now
 <br>**Description:** 
-<br>Responsible for offline infrastructure development in Baidu Financial Services Group（which now has spin off as Duxiaoman Inc.）
+<br>Responsible for offline infrastructure development in Baidu Financial Services Group（which now has spinned off as Duxiaoman Inc.）
 <br>**Responsibilities:**
 <br>a. Build a KV database called “eggroll”， this database is used for quickly updating large amount of data. This database solved real-time feature upddating in TB level.
 <br>b. Helping build the isolation offline infrastructure for Data Coperation among Duxiaoman and Baidu.
