@@ -35,7 +35,8 @@ Work Experience
 <br>a. Build a KV database called “eggroll”， this database is used for quickly updating large amount of data. This database solved real-time feature upddating in TB level.
 <br>b. Helping build the isolation offline infrastructure for Data Coperation among Duxiaoman and Baidu.
 <br>c. Build a virtual Storage middleware DGS, hidden the difference of the under storage systems, reduce the cost of migration .
-<br>d. Responsible for Duxiaoman's offline infrastructure on Baidu Cloud, smoothly migrate 20+ PB storage and calculation jobs from Baidu IDC to Baidu Cloud.
+<br>d. Responsible for MMR, MMR is an internal IAAS for Duxiaoman's offline applications on Baidu Cloud.
+<br>e. Responsible for offline migration, smoothly migrate 20+ PB storage and calculation jobs from Baidu IDC to Baidu Cloud.
 
  - ***Baidu, Inc. Beijing, China.*** Research and Development engineer Intern in INF. March 2016 – November 2016
 <br>**Description:** 
