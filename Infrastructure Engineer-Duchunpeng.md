@@ -28,7 +28,7 @@ Skills
 Work Experience
 ---------------
 
- - ***Baidu, Inc. Shenzhen, China.*** Research and Development engineer in FSG. May 2017 – Now
+ - ***Baidu, Inc. Shenzhen, China.(spinned off as Duxiaoman,Inc. at September in 2018)*** Research and Development engineer in FSG. May 2017 – Now
 <br>**Description:** 
 <br>Responsible for offline infrastructure development in Baidu Financial Services Group（which now has spinned off as Duxiaoman Inc.）
 <br>**Responsibilities:**
